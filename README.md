@@ -5,6 +5,8 @@
   Muito prazer, meu nome é Gabriel Henrique Tres, sou estudante da área de Tecnologia da Informação.
 
   No momento não trabalho na área, mas estou na preparação para me tornar um desenvolvedor, com estudos focados em tecnologias web.
+  
+  Atualmente estou estudando TypeScript e Angular.
 
   Agradeço pela visita e bons códigos!
 
