@@ -6,7 +6,7 @@
 
   No momento não trabalho na área, mas estou na preparação para me tornar um desenvolvedor, com estudos focados em tecnologias web.
   
-  Atualmente estou estudando TypeScript e Angular.
+  Atualmente estou estudando TypeScript, Angular e NodeJS.
 
   Agradeço pela visita e bons códigos!
 
