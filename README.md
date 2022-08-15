@@ -6,7 +6,7 @@
 
   No momento não trabalho na área, mas estou na preparação para me tornar um desenvolvedor, com estudos focados em tecnologias web.
   
-  Atualmente estou estudando React e React Native.
+  Atualmente estou estudando React, React Native e TypeScript.
 
   Agradeço pela visita e bons códigos!
 
