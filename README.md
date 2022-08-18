@@ -6,7 +6,7 @@
 
   No momento sou estagiário na área de Desenvolvimento Web, mais focado no desenvolvimento front-end com React, Redux e TypeScript.
   
-  Atualmente estou estudando React, React Native e TypeScript.
+  Atualmente estou estudando React, React Native, TypeScript e NodeJS.
 
   Agradeço pela visita e bons códigos!
 
