@@ -4,7 +4,7 @@
 
   Muito prazer, meu nome é Gabriel Henrique Tres, sou estudante da área de Tecnologia da Informação.
 
-  No momento sou estagiário na área de Desenvolvimento Web, mais focado no desenvolvimento front-end com React, Redux e TypeScript.
+  No momento desenvolvedor na área de Desenvolvimento Web, mais focado no desenvolvimento front-end com React, Redux e TypeScript.
   
   Atualmente estou estudando React, React Native, TypeScript e NodeJS.
 
