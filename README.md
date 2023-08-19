@@ -6,7 +6,7 @@
 
   No momento desenvolvedor na área de Desenvolvimento Web, mais focado no desenvolvimento front-end com React, Redux e TypeScript.
   
-  Atualmente estou estudando React, React Native, TypeScript e NodeJS.
+  Atualmente estou estudando Machine Learning e Deep Learning com Python e NodeJS com TypeScript.
 
   Agradeço pela visita e bons códigos!
 
