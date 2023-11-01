@@ -4,9 +4,9 @@
 
   Muito prazer, meu nome é Gabriel Henrique Tres, sou estudante da área de Tecnologia da Informação.
 
-  No momento desenvolvedor na área de Desenvolvimento Web, mais focado no desenvolvimento front-end com React, Redux e TypeScript.
+  No momento trablho com Desenvolvimento Web, mais focado no desenvolvimento front-end com React, Redux e TypeScript e desenvolvimento back-end com PHP utilizando Zend Framework e Doctrine.
   
-  Atualmente estou estudando Machine Learning e Deep Learning com Python e NodeJS com TypeScript.
+  Atualmente estou estudando Machine Learning com Python e NodeJS com TypeScript.
 
   Agradeço pela visita e bons códigos!
 
