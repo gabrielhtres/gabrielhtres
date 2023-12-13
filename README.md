@@ -1,6 +1,6 @@
 <div align="center">
 
-  # :computer: Bem-vindo ao meu perfil do GitHub :computer:
+  # Bem-vindo ao meu perfil do GitHub
 
   Muito prazer, meu nome é Gabriel Henrique Tres, sou estudante da área de Tecnologia da Informação.
 
